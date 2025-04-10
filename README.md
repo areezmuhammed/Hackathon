@@ -37,22 +37,23 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
 
 **Key features:**
 
-1. Linear regression
-2. Prophet
-3. LSTM
-4. ARIMA
-5. Polynomial regression
-6. XGBoost regression
+1. Linear regression: Linear Regression produced moderately accurate predictions but lacked flexibility in capturing complex patterns. 
+2. Prophet: The Prophet model outperformed all others in forecasting emissions, showing strong accuracy and temporal consistency across local authorities. Its ability to handle seasonality and trend shifts made 
+   it particularly effective for environmental time series data
+3. LSTM: LSTM offered competitive results but was outclassed by Prophet in terms of interpretability and generalisability.
+4. ARIMA: ARIMA model underperformed, especially for smaller LAs where data variability affected reliability.
+5. Polynomial regression: This model also failed to meet expectations and provided poor results.
+6. XGBoost regression: Similar to ARIMA, XGBoost model also produced underwhelming results, especially for smaller LAs where data variability affected reliability.
 
 **Visualisations:**
 
-1.Bar charts for category and author frequencies.
+1.Bar charts for distribution of emissions across various sectors, 2050 net zero prediction across various LAs.
 
 2.Scatter plots for similarity metrics.
 
-3.Line plots for publication trends.
+3.Line plots to represent actual values vs predicted values.
 
-4.Clustering and silhouette plots.
+4.Box plot for highlighting emission outliers.
 
 **Project files:**
 
@@ -84,5 +85,6 @@ Tableau
 
 **Conclusion**
 
+Economic indicators such as GVA and business density play a significant role in emissions levels, underscoring the need for policies that balance economic growth with sustainability goals.The study highlights the importance of accurately forecasting emissions to support local authorities in achieving Net Zero targets, with Prophet emerging as the most reliable model.
 
 
