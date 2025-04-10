@@ -26,8 +26,11 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
 **Visualisations**
 
 1.Bar charts for category and author frequencies.
+
 2.Scatter plots for similarity metrics.
+
 3.Line plots for publication trends.
+
 4.Clustering and silhouette plots.
 
 **Project files**
