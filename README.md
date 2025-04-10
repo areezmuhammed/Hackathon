@@ -14,14 +14,13 @@ Aparnaa Swaminathan,  aswaminathan1@sheffield.ac.uk
 
 **Overview:**
 
-The UK government has committed to achieving Net Zero carbon emissions, a goal that requires transformative changes across all sectors of society. Local Authorities (LAs) play a pivotal role in this transition, as they directly manage transport systems, housing development, waste services, and local industries—each contributing significantly to emissions.applying statistical analysis, visualization, and machine learning models, this project aims to provide data-driven insights that can inform policy, guide funding, and support regional climate action strategies.This project addresses the dual challenge of climate goals and economic development at the local level in the UK.
+The UK government has committed to achieving Net Zero carbon emissions, a goal that requires transformative changes across all sectors of society. Local Authorities (LAs) play a pivotal role in this transition, as they directly manage transport systems, housing development, waste services, and local industries—each contributing significantly to emissions.applying statistical analysis, visualization, and machine learning models, this project aims to provide data-driven insights that can inform policy, guide funding, and support regional climate action strategies.This project addresses the dual challenge of climate goals and economic development at the local level in the UK.The analysis focuses on local authorities within the Yorkshire and the Humber region.
 The aims for this project consist of:
 
 1.Net Zero Readiness: Can we predict which local authorities are on track to reach Net Zero by 2050 based on historical emissions?
 
 2.Economic Linkages: Can we uncover patterns between carbon emissions and economic indicators like business density and Gross Value Added (GVA) by industry?
 
-The analysis focuses on local authorities within the Yorkshire and the Humber region.
 
 **Datasets:**
 
@@ -33,7 +32,19 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
     
     └── business 2017-2022.xlsx
     
-    └── regionalgrossvalueaddedbalancedbyindustrylocalauthoritiestleyorkshireandthehumber.xlsx
+    └── 2017.xls
+    
+    └── 2018.xls
+    
+    └── 2019.xlsx
+
+    └── 2020.xlsx
+    
+    └── 2021.xlsx
+
+    └── 2022.xlsx
+
+    └── revenue.xlsx
 
 **Key features:**
 
@@ -49,11 +60,9 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
 
 1.Bar charts for distribution of emissions across various sectors, 2050 net zero prediction across various LAs.
 
-2.Scatter plots for similarity metrics.
+2.Line plots to represent actual values vs predicted values and forecasting emission values by 2050.
 
-3.Line plots to represent actual values vs predicted values and forecasting emission values by 2050.
-
-4.Box plot for highlighting emission outliers.
+3.Box plot for highlighting emission outliers.
 
 **Project files:**
 
