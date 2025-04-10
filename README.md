@@ -20,6 +20,7 @@ Analyse historical emissions data from 2005–2022.
 4.Provide visual insights to support policy-making at the LA level.
 
 **Project files**
+
 📂 datasets/
 
     └── 2005-2022-local-authority-ghg-emissions-csv-dataset.csv
@@ -45,8 +46,11 @@ Analyse historical emissions data from 2005–2022.
 
 
 **Tools & Technologies**
+
 Python
+
 Google Colab
+
 Tableau 
 
 
