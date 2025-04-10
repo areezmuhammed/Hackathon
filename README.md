@@ -51,7 +51,7 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
 
 2.Scatter plots for similarity metrics.
 
-3.Line plots to represent actual values vs predicted values.
+3.Line plots to represent actual values vs predicted values and forecasting emission values by 2050.
 
 4.Box plot for highlighting emission outliers.
 
