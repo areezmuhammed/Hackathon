@@ -20,38 +20,33 @@ Analyse historical emissions data from 2005–2022.
 4.Provide visual insights to support policy-making at the LA level.
 
 **Project files**
-📂 data/
+📂 datasets/
 
-    └── emissions_2005_2022.csv
+    └── 2005-2022-local-authority-ghg-emissions-csv-dataset.csv
     
-    └── business_2017_2022.xlsx
+    └── business 2017-2022.xlsx
     
-    └── gva_by_la.xlsx
+    └── regionalgrossvalueaddedbalancedbyindustrylocalauthoritiestleyorkshireandthehumber.xlsx
 
-📂 notebooks/
+📂 notebook for linear regression/
 
     └── 01_Emissions_Trends_Analysis.ipynb
     
-    └── 02_GVA_vs_Emissions_Exploration.ipynb
-    
-    └── 03_NetZero_Prediction_Model.ipynb
+   
+📂 notebook for prophet/
 
-📂 plots/
+    └── 01_Emissions_Trends_Analysis.ipynb
 
-    └── emissions_by_la.png
+
+📂 notebook for LSTM/
+
+    └── 01_Emissions_Trends_Analysis.ipynb
     
-    └── gva_emissions_correlation.png
-    
-    └── model_accuracy_comparison.png
+
 
 **Tools & Technologies**
-Python (pandas, matplotlib, seaborn, scikit-learn, XGBoost)
+Python
+Google Colab
+Tableau 
 
-Jupyter Notebooks / Google Colab
 
-PowerBI/Tableau (optional for dashboarding)
-
-Data Sources: ONS, gov.uk, local authority datasets
-
-**Ethics**
-sources of the data
