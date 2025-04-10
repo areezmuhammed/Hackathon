@@ -54,7 +54,7 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
 
 4.Clustering and silhouette plots.
 
-**Project files**
+**Project files:**
 
 The project files are listed below:
 
@@ -74,7 +74,7 @@ The project files are listed below:
     
 
 
-**Tools & Technologies**
+**Tools & Technologies:**
 
 Python
 
