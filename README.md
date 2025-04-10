@@ -1,4 +1,16 @@
-Zeroed in 2050:Mapping the road to netzero to earth?
+<h1>Zeroed in 2050: Mapping the road to net zero to earth?</h1>
+
+Contributers:
+
+Areez Muhammed,  areezmuhammedshabu2@sheffield.ac.uk
+
+Kulisara Kittivibul,  kkittivibul1@sheffield.ac.uk
+
+Seadon Rodrigues,  srodrigues4@sheffield.ac.uk
+
+Shristi Adhikari,  sadhikari2@sheffield.ac.uk
+
+Aparnaa Swaminathan,  aswaminathan1@sheffield.ac.uk
 
 **Overview:**
 
@@ -23,7 +35,16 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
     
     └── regionalgrossvalueaddedbalancedbyindustrylocalauthoritiestleyorkshireandthehumber.xlsx
 
-**Visualisations**
+**Key features:**
+
+1. Linear regression
+2. Prophet
+3. LSTM
+4. ARIMA
+5. Polynomial regression
+6. XGBoost regression
+
+**Visualisations:**
 
 1.Bar charts for category and author frequencies.
 
@@ -36,6 +57,7 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
 **Project files**
 
 The project files are listed below:
+
 📂 notebook for linear regression/
 
     └── 01_Emissions_Trends_Analysis.ipynb
@@ -59,5 +81,8 @@ Python
 Google Colab
 
 Tableau 
+
+**Conclusion**
+
 
 
