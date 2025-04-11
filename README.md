@@ -68,19 +68,21 @@ The datasets included in this study include 1 csv and 2 excel files.They are lis
 
 The project files are listed below:
 
-📂 notebook for linear regression/
+📂 notebook for various models tested/
 
-    └── 01_Emissions_Trends_Analysis.ipynb
+    └── ARIMA_PR_LR.ipynb
     
    
 📂 notebook for prophet/
 
-    └── 01_Emissions_Trends_Analysis.ipynb
+    └── PROPHET Territorial emmission.ipynb
+    └── PROPHET_CO2.ipynb
 
 
 📂 notebook for LSTM/
 
-    └── 01_Emissions_Trends_Analysis.ipynb
+    └── LSTM Territorial emmission.ipynb
+    └── LSTM_CO2.ipynb
     
 
 
