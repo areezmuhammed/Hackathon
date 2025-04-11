@@ -98,4 +98,6 @@ Tableau
 
 Economic indicators such as GVA and business density play a significant role in emissions levels, underscoring the need for policies that balance economic growth with sustainability goals.The study highlights the importance of accurately forecasting emissions to support local authorities in achieving Net Zero targets, with Prophet emerging as the most reliable model.
 
+**Presentation**
 
+[This is the presentation link](https://www.canva.com/design/DAGkKKdIk90/yLwF_c4CQY_qP6OTR-_Yaw/view?utm_content=DAGkKKdIk90&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h085d58f029)
